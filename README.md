@@ -80,6 +80,24 @@ To contribute as a Data Analyst by transforming complex datasets into clear insi
 
 ### 💡 "Turning Data into Decisions."
 
+---
+
+## 📬 Connect With Me
+
+I'm open to Data Analyst opportunities, internships,
+and collaborations involving data analytics.
+
+📧 **Email:** [Contact Me](mailto:your-email@gmail.com)
+
+💼 **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/your-profile/)
+
+💻 **GitHub:** [Explore My GitHub](https://github.com/mayankshm8567-droid)
+
+---
+
+⭐ Thanks for visiting my profile!
+
+
 ⭐ Thanks for visiting my GitHub profile!
 
 </div>
